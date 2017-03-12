@@ -1,5 +1,4 @@
 #Thibaut Teinturier
-
 -------------------------------------
 <p align="center"> Bonjour à toutes et à tous, pour faire une breve présentation, je m'appelle donc Thibaut Teinturier, et j'ai depuis très jeune (initié par mon père, mon frère et mes oncles) passé énormément de mon temps libre dans le monde des jeux vidéos et de l'informatique. Pour faire simple, la plus grande partie de mes loisirs étaient PC/Console ou sport. Cependant, je ne m'étais encore jamais intéressé en profondeur au codage, qui permet aux sites internets et aux jeux videos d'être ce qu'ils sont. La formation codeur 18 est donc apparue comme une lueur pleine d'espoir lors d'une période de ma vie pendant laquelle je ne savais plus trop où je me dirigeais, je vais enfin pouvoir faire quelque chose qui me plait vraiment et me motive.</p>
 
@@ -14,7 +13,7 @@ J'ai donc jusqu'ici suivi une formation dans le commerce avec un bac ES puis un 
 
 * **A plus long terme** : après avoir accumulé de l'experience dans le domaine du codage et approfondi mes connaissances au maximum, je souhaiterai fonder mon entreprise de création d'applications sur téléphone portable et navigateur internet, et pourquoi pas, de jeux videos plus poussés, avec ma propre page internet, faite par mes soins, répértoriant toutes mes créations et projets, certainement une boutique en ligne, etc...
 
-
+--------------------------
 <p align="center"><a href="https://www.noelshack.com/2017-10-1489332088-matrix.jpg"><img src="https://image.noelshack.com/minis/2017/10/1489332088-matrix.png" border="0" alt="1489332088-matrix.jpg - envoi d'image avec NoelShack" title="1489332088-matrix.jpg"/></a></p>
 <p align="center"> On s'retrouve dans la matrice ! :) </p>
 
