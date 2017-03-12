@@ -1,7 +1,7 @@
 
 #Thibaut Teinturier 
 -------------------------------------
-Bonjour à toutes et à tous, pour faire une breve présentation, je m'appelle donc Thibaut Teinturier, et j'ai depuis très jeune (initié par mon père, mon frère et mes oncles) passé énormément de mon temps libre dans le monde des jeux vidéos et de l'informatique. Pour faire simple, la plus grande partie de mes loisirs étaient le PC ou sport. Cependant, je ne m'étais encore jamais intéressé en profondeur au codage, qui permet aux sites internets et aux jeux videos d'être ce qu'ils sont. La formation codeur 18 est donc apparue comme une lueur pleine d'espoir lors d'une période de ma vie pendant laquelle je ne savais plus trop où je me dirigeais, je vais enfin pouvoir faire quelque chose qui me plait vraiment et me motive.
+Bonjour à toutes et à tous, pour faire une breve présentation, je m'appelle donc Thibaut Teinturier, et j'ai depuis très jeune (initié par mon père, mon frère et mes oncles) passé énormément de mon temps libre dans le monde des jeux vidéos et de l'informatique. Pour faire simple, la plus grande partie de mes loisirs étaient PC/Console ou sport. Cependant, je ne m'étais encore jamais intéressé en profondeur au codage, qui permet aux sites internets et aux jeux videos d'être ce qu'ils sont. La formation codeur 18 est donc apparue comme une lueur pleine d'espoir lors d'une période de ma vie pendant laquelle je ne savais plus trop où je me dirigeais, je vais enfin pouvoir faire quelque chose qui me plait vraiment et me motive.
 
 #Avant d'arriver ici ?
 --------------------------------
